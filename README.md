@@ -2,7 +2,7 @@
 
 Because I know I have a short attention span, I have compiled a list of steps that I take from start to finish for EVERY project that I work on. Note that depending on the project, each one has different requirements that may result in a few steps being skipped. 
 
-Below however, is the standardized procedure I follow where developing any application or website that I am passionate about from start to finish. Okay, TLDR; enough yapping. Let's get this on with.
+Below however, is the standardized procedure I follow where developing any application or website that I am passionate about. Okay, TLDR; enough yapping. Let's get this on with.
 
 1. Create the UI (Figma)
   - Sometimes physical, if not, use digital references, other websites, and/or own designs in my brain to create a rough draft
