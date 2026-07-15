@@ -5,7 +5,7 @@ Because I know I have a short attention span, I have compiled a list of steps th
 Below however, is the standardized procedure I follow where developing any application or website that I am passionate about. Okay, TLDR; enough yapping. Let's get this on with.
 
 1. Create the UI (Figma)
-   - Sometimes physical, if not, use digital references, other websites, and/or own designs in my brain to create a rough draft
+- Sometimes physical, if not, use digital references, other websites, and/or own designs in my brain to create a rough draft
 
 3. Choose Tech Stack
   - HIGHLY important
