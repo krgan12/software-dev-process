@@ -19,7 +19,7 @@ Below however, is the standardized procedure I follow when developing any applic
   - Remember kids: A software developer's job is never done! (ugh, why did I choose this amazing career)
 
 4. Deploy
-  - Arguably one of the easiest steps
+  - Arguably the easiest step
   - Most popular options I use are:
     - Vercel (for free, personal projects)
     - A domain provider (for freelance/production-ready system)
