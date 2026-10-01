@@ -8,7 +8,7 @@ Below however, is the standardized procedure I follow when developing any applic
 - Sometimes physical, if not, use digital references, other websites, and/or own designs in my brain to create a rough draft
 
 3. Choose Tech Stack
-  - HIGHLY important
+  - EXTREMELY important
   - Varies depending on project complexity
   - Not all projects needs the most insane tech stack (but most do :)
 
